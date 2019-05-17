@@ -1,4 +1,7 @@
 # 3sther.github.io
-Core repository
 
-//проверка что из себя представляет github pages
+
+Interseting Horse movments 
+
+Author: http://chess.itgid.info/
+
