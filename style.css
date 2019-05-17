@@ -58,6 +58,7 @@ h1 {
 }
 
 .green {
-    background: green;
     background-image: url('./images/horse.jpg');
+    background: green;
+    
 }
