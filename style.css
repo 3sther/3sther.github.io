@@ -52,14 +52,14 @@ h1 {
 }
 
 .active {
-    background-image: url('./images/horse.png');
+    background-image: url('./images/horse_white.png');
     background-color: orange;
     background-size: 100% 100%;
 }
 
 .green {
     background-image: url('./images/horse_white.png');
-    /* background: green; */
+    background: green;
     background-size: 100% 100%;
     
 }
