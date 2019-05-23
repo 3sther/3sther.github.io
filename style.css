@@ -59,7 +59,7 @@ h1 {
 
 .green {
     background-image: url('./images/horse_white.png');
-    background: green;
+    background-color: green;
     background-size: 100% 100%;
     
 }
